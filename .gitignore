@@ -1,0 +1,4 @@
+secrets/
+salidas/
+*.token.json
+.env
